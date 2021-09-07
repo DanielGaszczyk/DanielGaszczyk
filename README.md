@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Daniel</h1>
 <h3 align="center">A CTO at TeamFeedback - SaaS company from Poland</h3>
 
-- 🔭 I’m currently working on [a tool to create better project teams](teamfeedback.co)
+- 🔭 I’m currently working on a tool to create better project teams - teamfeedback.co
 
 - 📫 Reach me on **daniel@teamfeedback.co**
 
