@@ -9,7 +9,6 @@ Poznań, Poland · EN · PL
 ### Live
 
 - **[AI Privacy Shield](https://useaiprivacy.com)** — browser extension that prevents accidental paste of personal or client data into AI chats and tools.
-- **[TeamFeedback Sp. z o.o.](https://teamfeedback.co)** — AI product (PARP-funded). Co-founded.
 - **[danielgaszczyk.com](https://danielgaszczyk.com)** — portfolio.
 
 ### What I do
@@ -24,7 +23,7 @@ Poznań, Poland · EN · PL
 
 ### Background
 
-Business Systems Analyst @ Franklin Templeton. Electronics & telecom engineering background. 17+ hackathons in — useful takeaway: cutting scope brutally.
+Co-founder & CTO of **[TeamFeedback Sp. z o.o.](https://teamfeedback.co)** — AI product, PARP-funded. Business Systems Analyst @ Franklin Templeton. Electronics & telecom engineering background. 17+ hackathons in — useful takeaway: cutting scope brutally.
 
 ### Talk to me about
 
