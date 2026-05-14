@@ -4,6 +4,8 @@
 
 Poznań, Poland · EN · PL
 
+Open to client work on legacy × AI integrations — [say hi](mailto:hello@danielgaszczyk.com).
+
 ---
 
 ### Live
@@ -30,8 +32,6 @@ Co-founder & CTO of **[TeamFeedback Sp. z o.o.](https://teamfeedback.co)** — A
 Legacy → modern integration · Side-project economics · PARP grant funding
 
 ---
-
-Open to client work on legacy × AI integrations.
 
 *I ship side-projects faster than I finish them. Working on that.*
 
