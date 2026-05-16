@@ -1,8 +1,8 @@
 # Daniel Gąszczyk
 
-**Builder shipping end-to-end systems where legacy stacks meet AI.**
+**I'm a software product builder. I ship things end-to-end — AI in the loop where it earns its place.**
 
-Poznań, Poland · EN · PL
+Poznań, Poland · works in EN/PL
 
 Open to client work on legacy × AI integrations — [say hi](mailto:hello@danielgaszczyk.com).
 
@@ -15,21 +15,21 @@ Open to client work on legacy × AI integrations — [say hi](mailto:hello@danie
 
 ### What I do
 
-- **Legacy × AI integration** — bridging VBA, Excel, Google Apps Script, n8n, Python, LLM APIs
-- **Business-technical translation** — turning fuzzy business problems into working systems
-- **End-to-end ownership** — from problem framing through deployment and handover
+- **Software products, end-to-end** — from problem framing through architecture, build, ship, and operational handoff
+- **AI where it earns its place** — Python/FastAPI, LLM APIs, n8n workflows, agentic flows — not as the headline feature, but as the tool that does the job
+- **Business-technical translation** — turning fuzzy business problems into shipped systems
 
-### Latest build
+### Recently shipped
 
-- **Property billing pipeline for a Polish residents' association (~462 plots)** — automated invoice distribution. Excel VBA → Google Apps Script → Drive/Gmail/SMS. **3 business days of manual work → 15 minutes per cycle.** → [Case study](https://github.com/DanielGaszczyk/case-study-kalina-pipeline)
+- **Property billing pipeline for a Polish residents' association (~462 plots)** — automated invoice distribution end-to-end. Excel VBA → Google Apps Script → Drive/Gmail/SMS. **3 business days of manual work → 15 minutes per cycle.** → [Case study](https://github.com/DanielGaszczyk/case-study-kalina-pipeline)
 
 ### Background
 
-Co-founder & CTO of **[TeamFeedback Sp. z o.o.](https://teamfeedback.co)** — AI product, PARP-funded. Business Systems Analyst @ Franklin Templeton. Electronics & telecom engineering background. 17+ hackathons in — useful takeaway: cutting scope brutally.
+Business Systems Analyst @ **Franklin Templeton** (Fortune 500 asset manager), in the Data Business Transformation team — multi-million-dollar enterprise projects, automation, data flows. Co-founded **[TeamFeedback Sp. z o.o.](https://teamfeedback.co)** in 2021 — SaaS for structured peer feedback (PARP-funded, launched on Product Hunt 2023). As CTO I owned the technical direction end-to-end; hands-on in Java early, Python/FastAPI for the AI features. Electronics & telecom engineering background. Hackathon veteran (17+) — and the most useful skill from all of them: cutting scope brutally.
 
 ### Talk to me about
 
-Legacy → modern integration · Side-project economics · PARP grant funding
+Building software products end-to-end · AI in production (not demos) · the gap between shipping and shipping-something-people-use · Side-project economics · Startup retrospectives (TeamFeedback / PARP funding experience)
 
 ---
 
